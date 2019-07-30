@@ -1,0 +1,10 @@
+tableau:
+    user: tableau_username
+    pass: tableau_password
+    site: tableau_site
+    server: tableau server
+    view: view_name
+    png_path: path_to_png_download
+slack:
+    token: slack_token
+    channel: slack_channel
